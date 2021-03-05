@@ -48,4 +48,7 @@ dependencies:
   - r-stargazer
   - r-summarytools
   - r-tidyverse
-  - imagemagick=7.0.10
+  - r-gridgraphics
+  - r-biocmanager
+  - r-ggplotify 
+  - r-rvcheck
