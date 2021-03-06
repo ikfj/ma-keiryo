@@ -4,4 +4,33 @@ channel_priority: strict
 dependencies:
   - imagemagick=7.0.10
   - r-base=3.6
-  - r-magick=2.6.0
+  - r-dt
+  - r-rocr
+  - r-broom
+  - r-car
+  - r-corrplot
+  - r-corrr
+  - r-dplyr
+  - r-gapminder
+  - r-ggbeeswarm
+  - r-ggplot2
+  - r-ggrepel
+  - r-ggsignif
+  - r-ggstance
+  - r-ggthemes
+  - r-haven
+  - r-magrittr
+  - r-margins
+  - r-msm
+  - r-patchwork
+  - r-plyr
+  - r-psych
+  - r-purrr
+  - r-rcompanion
+  - r-readr
+  - r-readxl
+  - r-rmarkdown
+  - r-sf
+  - r-sjplot
+  - r-stargazer
+  - r-tidyverse
