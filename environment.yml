@@ -33,3 +33,29 @@ dependencies:
   - r-sjplot
   - r-stargazer
   - r-tidyverse
+  - r-arm
+  - r-biocmanager
+  - r-checkmate
+  - r-coda
+  - r-corpcor
+  - r-fdrtool
+  - r-formula
+  - r-ggplotify
+  - r-glasso
+  - r-gridgraphics
+  - r-hmisc
+  - r-htmltable
+  - r-igraph
+  - r-jpeg
+  - r-latticeextra
+  - r-lavaan
+  - r-magick
+  - r-pander
+  - r-pbapply
+  - r-pbivnorm
+  - r-png
+  - r-pryr
+  - r-rapportools
+  - r-reshape
+  - r-rpart
+  - r-rvcheck
