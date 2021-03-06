@@ -1,54 +1,7 @@
 channels:
   - conda-forge
+channel_priority: strict
 dependencies:
+  - imagemagick=7.0.10
   - r-base=3.6
-  - r-dt
-  - r-hmisc
-  - r-matrix
-  - r-rocr
-  - r-boot
-  - r-broom
-  - r-car
-  - r-colorspace
-  - r-corpcor
-  - r-corrplot
-  - r-corrr
-  - r-dplyr
-  - r-fdrtool
-  - r-gapminder
-  - r-ggbeeswarm
-  - r-ggplot2
-  - r-ggrepel
-  - r-ggsignif
-  - r-ggstance
-  - r-ggthemes
-  - r-glasso
-  - r-gtools
-  - r-haven
-  - r-igraph
-  - r-interactionTest
-  - r-jpeg
-  - r-lavaan
-  - r-magrittr
-  - r-margins
-  - r-msm
-  - r-patchwork
-  - r-pbapply
-  - r-plyr
-  - r-png
-  - r-psych
-  - r-purrr
-  - r-rcompanion
-  - r-readr
-  - r-readxl
-  - r-reshape2
-  - r-rmarkdown
-  - r-sf
-  - r-sjPlot
-  - r-stargazer
-  - r-summarytools
-  - r-tidyverse
-  - r-gridgraphics
-  - r-biocmanager
-  - r-ggplotify 
-  - r-rvcheck
+  - r-magick=2.6.0
