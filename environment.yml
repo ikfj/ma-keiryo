@@ -2,7 +2,6 @@ channels:
   - conda-forge
 channel_priority: strict
 dependencies:
-  - imagemagick=7.0.10
   - r-base=3.6
   - r-dt
   - r-rocr
