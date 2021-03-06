@@ -1,15 +1,4 @@
 #!/bin/bash
 set -e
 export LD_LIBRARY_PATH=${NB_PYTHON_PREFIX}/lib:${LD_LIBRARY_PATH}
-
-# Patch for R packages "ggimage" and "summarytools".
-# Perhaps caused by Conda package "r-magick" depends on "imagemagick" but not pinning "imagemagick=7.0.10".
-if [ -f /srv/conda/envs/notebook/lib/libMagick++-7.Q16HDRI.so ]; then
-  cd /srv/conda/envs/notebook/lib && ln -s libMagick++-7.Q16HDRI.so libMagick++-7.Q16HDRI.so.4
-fi
-if [ -f /srv/conda/envs/notebook/lib/libMagickCore-7.Q16HDRI.so ]; then
-  cd /srv/conda/envs/notebook/lib && ln -s libMagickCore-7.Q16HDRI.so libMagickCore-7.Q16HDRI.so.7
-fi
-cd
-
 exec "$@"
