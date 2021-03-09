@@ -10,7 +10,7 @@
 すると、あなた専用の演習環境が新しく作られます。
 RStudioを使うには、画面右上にある [New] ボタンをクリックし、RStudioを選択します。
 
-[![自分用の演習環境](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)
+[![自分用の演習環境を作る](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)
 
 作業を終えたら、編集したファイルを保存してブラウザを閉じます。ブラウザを閉じても演習環境は失われません。
 
@@ -24,7 +24,10 @@ RStudioを使うには、画面右上にある [New] ボタンをクリックし
 あなたが作った演習環境の一覧が表示されます。
 中央のURLをクリックすると、演習環境が開き、作業を再開できます。
 
-[![前に作った演習環境を再開する](https://meatwiki.nii.ac.jp/confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A26.png)](https://meatwiki.nii.ac.jp/confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A26.png)
+[![前に作った演習環境で作業を再開する](https://meatwiki.nii.ac.jp/confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A26.png)](https://meatwiki.nii.ac.jp/confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A26.png)
+
+> あなたが2個以上の演習環境を持っている場合、この画面に複数の URL が表示されます。
+> 右側の Last activity を見て演習環境を区別してください。
 
 ### 不要になった演習環境を削除する
 
@@ -32,7 +35,5 @@ RStudioを使うには、画面右上にある [New] ボタンをクリックし
 1. 右側の [Stop] ボタンを押して、しばらく待ちます。
 1. 右側に現れる [delete] ボタンを押すと、演習環境が削除されます。
 
-## 教材
-
-https://www.asanoucla.com/%E8%AC%9B%E7%BE%A9%E4%B8%80%E8%A6%A7/keiryo2017/
-
+> あなたが20個の演習環境を持っている場合、さらに新しい演習環境を作ろうとするとエラーになります。
+> 上の手順で不要な演習環境を削除してください。
