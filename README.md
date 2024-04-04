@@ -8,9 +8,9 @@
 
 最初に1回だけ、上の [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/ikfj/ma-keiryo/master) ボタンを押してください。
 すると、あなた専用の演習環境が新しく作られます。
-RStudioを使うには、画面右上にある [New] ボタンをクリックし、RStudioを選択します。
+RStudioを使うには、「RStudio」アイコンをクリックします。
 
-[![自分用の演習環境を作る](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)
+[![自分用の演習環境を作る](https://meatwiki.nii.ac.jp/confluence/download/attachments/88608282/2024-04-04_16_12_12.png)](https://meatwiki.nii.ac.jp/confluence/download/attachments/88608282/2024-04-04_16_12_12.png)
 
 作業を終えたら、編集したファイルを保存してブラウザを閉じます。ブラウザを閉じても演習環境は失われません。
 
